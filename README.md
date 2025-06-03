@@ -2,7 +2,7 @@
 
 I'm Jamshid Omonov — passionate about development, technology, and self-growth. Welcome to my GitHub!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamaomonov&show_icons=true&theme=dark)
+
 
 ---
 
@@ -19,7 +19,7 @@ I'm Jamshid Omonov — passionate about development, technology, and self-growth
 - Parsing and automation
 - Working with APIs and databases
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamaomonov&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamaomonov&layout=compact&theme=dark) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamaomonov&show_icons=true&theme=dark)
 
 ---
 
