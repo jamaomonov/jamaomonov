@@ -2,8 +2,6 @@
 
 I'm Jamshid Omonov — passionate about development, technology, and self-growth. Welcome to my GitHub!
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamaomonov&theme=dark)
-
 ---
 
 ### 🌐 My social networks:
