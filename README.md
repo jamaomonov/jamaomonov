@@ -21,3 +21,5 @@ I'm Jamshid Omonov — passionate about development, technology, and self-growth
 
 _Thanks for stopping by!_
 
+
+![Jama's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamaomonov&theme=radical)
