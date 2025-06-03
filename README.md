@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**jamaomonov/jamaomonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jamshid Omonov — passionate about development, technology, and self-growth. Welcome to my GitHub!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Get in touch:
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jama_omonov)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jama.omonov?igsh=MWJ1Y290azd3aGh5bg%3D%3D&utm_source=qr)
+
+---
+
+### 🚀 My interests:
+- Backend development with Python / FastAPI
+- Creating Telegram bots
+- Parsing and automation
+- Working with APIs and databases
+
+---
+
+_Thanks for stopping by!_
+
