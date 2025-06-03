@@ -2,6 +2,8 @@
 
 I'm Jamshid Omonov — passionate about development, technology, and self-growth. Welcome to my GitHub!
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamaomonov&show_icons=true&theme=radical)
+
 ---
 
 ### 🌐 Get in touch:
@@ -22,4 +24,3 @@ I'm Jamshid Omonov — passionate about development, technology, and self-growth
 _Thanks for stopping by!_
 
 
-![Jama's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamaomonov&theme=radical)
