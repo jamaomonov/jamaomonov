@@ -2,7 +2,7 @@
 
 I'm Jamshid Omonov — passionate about development, technology, and self-growth. Welcome to my GitHub!
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamaomonov&show_icons=true&theme=dark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamaomonov&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamaomonov&theme=dark)
 
 ---
 
