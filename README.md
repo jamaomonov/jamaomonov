@@ -2,9 +2,11 @@
 
 I'm Jamshid Omonov — passionate about development, technology, and self-growth. Welcome to my GitHub!
 
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamaomonov&show_icons=true&theme=dark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamaomonov&theme=dark)
+
 ---
 
-### 🌐 my social networks:
+### 🌐 My social networks:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jama_omonov)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jama.omonov?igsh=MWJ1Y290azd3aGh5bg%3D%3D&utm_source=qr)
@@ -22,8 +24,5 @@ I'm Jamshid Omonov — passionate about development, technology, and self-growth
 ---
 
 _Thanks for stopping by!_
-
-
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jamaomonov&show_icons=true&theme=dark) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamaomonov&theme=dark)
 
 
