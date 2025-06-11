@@ -19,8 +19,6 @@ I'm Jama — passionate about development, technology, and self-growth. Welcome 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamaomonov&layout=compact&theme=dark) 
 
----
 
-_Thanks for stopping by!_
 
 
