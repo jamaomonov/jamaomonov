@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Jamshid Omonov — passionate about development, technology, and self-growth. Welcome to my GitHub!
+I'm Jama — passionate about development, technology, and self-growth. Welcome to my GitHub!
 
 ---
 
